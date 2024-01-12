@@ -1,0 +1,1 @@
+Bu proje,veri setini kullanarak işler ve maaşlar üzerine kapsamlı bir analiz ve kümeleme işlemi gerçekleştirir. Proje, veri setinin temizlenmesi, analizi, K-Means ve Gaussian Mixture Model (GMM) kümeleme tekniklerinin uygulanması ve sonuçların değerlendirilmesi aşamalarını içerir.
